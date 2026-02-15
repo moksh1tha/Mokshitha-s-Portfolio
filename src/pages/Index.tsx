@@ -32,14 +32,13 @@ const Index = () => {
               ))}
             </div>
             <h1 className="mt-6 text-4xl font-bold tracking-tight text-foreground md:text-6xl">
-              Mokshitha
-              <span className="block text-primary">Edamalapati</span>
+              <span className="block text-primary"> Mokshitha Edamalapati</span>
             </h1>
-            <p className="mt-4 max-w-lg text-lg leading-relaxed text-muted-foreground">
-              I ideate product features and build them end-to-end — from idea to production.
-            </p>
             <p className="mt-2 text-sm text-muted-foreground/70">
-              B.Tech Mechanical Engineering · IIT (BHU) Varanasi
+              B.Tech · IIT (BHU) Varanasi
+            </p>
+            <p className="mt-4 max-w-lg text-lg leading-relaxed text-muted-foreground">
+              I ideate product features and build them end-to-end, from idea to production.
             </p>
 
             <div className="mt-8 flex flex-wrap items-center justify-center gap-3 md:justify-start">
